@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <header>
+        <nav>
+           
+        </nav>
+    </header>
+
+    <section class="intro">
+        <div class="intro-text">
+            <h1>My Portfolio</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+           
+        </div>
+         <img src="photo.jpg" width="300px" align="right" class="w3-circle" alt="Adeline Palmerston">
+
+           
+        </div>
+    </section>
+
+    
+    <section class="cv">
+        <h2>Curriculum Vitae</h2>
+        <div class="cv-content">
+            <h3>Kamal Nasir</h3>
+            <p>Email: Kamal.Nasir@example.com</p>
+            <p>Phone: (123) 456-7890</p>
+            <p>Location: Lahore, Pakistan</p>
+            <p><strong>Professional Summary:</strong> A highly motivated and results-driven professional with over 5 years of experience in software development, specializing in front-end design and user experience. Passionate about building intuitive and user-friendly web applications.</p>
+            <p><strong>Education:</strong></p>
+            <ul>
+                <li><strong>Bachelor of Science in Computer Science</strong>,University of management , 2015 - 2019</li>
+                <li><strong>Master of Science in Software Engineering</strong>,University of management , 2019 - 2021</li>
+            </ul>
+            <p><strong>Work Experience:</strong></p>
+            <ul>
+                <li><strong>Software Developer</strong> at Tech Innovations Ltd. (2021 - Present)</li>
+                <li><strong>Junior Front-End Developer</strong> at Web Solutions Inc. (2019 - 2021)</li>
+            </ul>
+            <p><strong>Skills:</strong></p>
+            <ul>
+                <li>HTML, CSS, JavaScript, React, Node.js</li>
+                <li>Version control with Git and GitHub</li>
+                <li>Agile development methodologies</li>
+            </ul>
+            <p><strong>Languages:</strong></p>
+            <ul>
+                <li>English (Fluent)</li>
+                <li>Urdu (Fluent)</li>
+
+<br>
+<form action="">
+    <label for="Fname">First Name</label>
+    <input type="text" name="" id="" placeholder="First Name">
+    <br>
+
+    <label for="Id">ID</label>
+    <input type="text" name="" id=""placeholder="Numeric and alphbets">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+                <table style="border: 0.5cap solid black;">
+
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                </tr>
+                <tr>
+                    <td>Ali</td>
+                    <td>Ali@gmail.com</td>
+                </tr>
+            </table>
+            </ul>
+        </div>
+    </section>
+
+    
+
+</body>
+</html>
